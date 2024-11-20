@@ -1,19 +1,18 @@
 <div align="center">
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"  width="30px">, I'm Nahid</h1>
 <h3 align="center">Independent Cyber Security Researcher</h3>
-<a href="https://facebook.com/dark.htmlii"> 
+<a href="https://facebook.com/nah1d0x1"> 
 
-![Facebook](https://img.shields.io/badge/dark.htmlii-%231877F2.svg?style=flat&logo=Facebook&logoColor=white)
-</a><a href="https://twitter.com/0x_Saikat">
+![Facebook](https://img.shields.io/badge/nahid0x1-%231877F2.svg?style=flat&logo=Facebook&logoColor=white)
+</a><a href="https://twitter.com/nahid0x1">
  ![Twitter](https://img.shields.io/badge/0x_Saikat-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)
- </a><a href="https://instagram.com/saikat.py"> ![Instagram](https://img.shields.io/badge/saikat.py-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)</a> ![Github](https://img.shields.io/github/followers/0xh7ml?label=Github&style=flat&logoColor=white)
+ </a><a href="https://instagram.com/nah1d0x1"> ![Instagram](https://img.shields.io/badge/saikat.py-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)</a> ![Github](https://img.shields.io/github/followers/0xh7ml?label=Github&style=flat&logoColor=white)
 ![](https://visitor-badge.glitch.me/badge?page_id=0xh7ml)
 
 </div>
 
 ## 🙋‍♂️ About Me
-- 🚏  From Bangladesh
-- 🎓 Undergraduate
+- 🇧🇩  From Bangladesh
 - 🧑🏻‍💻 **Programming** | **Bug hunting** | **CTF Player**
 - 🌱 I’m currently focusing on **Bug Bounty Hunting**
 - 📫 mail to: nahid0x1.official@gmail.com
