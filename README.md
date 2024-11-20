@@ -51,7 +51,7 @@
 
 <br>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/nahid0x1.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/Nahid0x1.png" alt="TryHackMe">
 
 <br>
 
