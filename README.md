@@ -5,16 +5,16 @@
 
 ![Facebook](https://img.shields.io/badge/nahid0x1-%231877F2.svg?style=flat&logo=Facebook&logoColor=white)
 </a><a href="https://twitter.com/nahid0x1">
- ![Twitter](https://img.shields.io/badge/0x_Saikat-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)
- </a><a href="https://instagram.com/nah1d0x1"> ![Instagram](https://img.shields.io/badge/saikat.py-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)</a> ![Github](https://img.shields.io/github/followers/0xh7ml?label=Github&style=flat&logoColor=white)
-![](https://visitor-badge.glitch.me/badge?page_id=0xh7ml)
+ ![Twitter](https://img.shields.io/badge/nahid0x1-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)
+ </a><a href="https://instagram.com/nah1d0x1"> ![Instagram](https://img.shields.io/badge/nahid0x1-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)</a> ![Github](https://img.shields.io/github/followers/nahid0x1?label=Github&style=flat&logoColor=white)
+![](https://visitor-badge.glitch.me/badge?page_id=nahid0x1)
 
 </div>
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ Whoami!
 - 🇧🇩  From Bangladesh
-- 🧑🏻‍💻 **Programming** | **Bug hunting** | **CTF Player**
-- 🌱 I’m currently focusing on **Bug Bounty Hunting**
+- 🧑🏻‍💻 **Red Teaming** | **Bug hunting** | **CTF Player**
+- 🌱 I’m currently focusing on **Web/Android Pentesting**
 - 📫 mail to: nahid0x1.official@gmail.com
 
 <br>
@@ -51,7 +51,7 @@
 
 <br>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/0xh7ml.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/nahid0x1.png" alt="TryHackMe">
 
 <br>
 
