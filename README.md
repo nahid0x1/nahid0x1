@@ -14,10 +14,9 @@
 ## 🙋‍♂️ About Me
 - 🚏  From Bangladesh
 - 🎓 Undergraduate
-- 🧑🏻‍💻 **Programming** | **Bug hunting** | **Pet lover**
-- 🌱 I’m currently focusing on **Pentesting**
-- 📫 mail to: 0xh7ml.py@gmail.com
-- ⚡ Fun fact **I'm fond of playing games and go to travel often.**
+- 🧑🏻‍💻 **Programming** | **Bug hunting** | **CTF Player**
+- 🌱 I’m currently focusing on **Bug Bounty Hunting**
+- 📫 mail to: nahid0x1.official@gmail.com
 
 <br>
 
@@ -43,8 +42,8 @@
 
 ## 📈 My Github Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=0xh7ml&show_icons=true&count_private=true&theme=radical&hide_border=true" width="380"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xh7ml&theme=radical&hide_border=true" width=380/>
+<img src="https://github-readme-stats.vercel.app/api?username=nahid0x1&show_icons=true&count_private=true&theme=radical&hide_border=true" width="380"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nahid0x1&theme=radical&hide_border=true" width=380/>
 </div>
 <br>
 <br>
