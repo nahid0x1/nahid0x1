@@ -18,7 +18,7 @@
 ## 🙋‍♂️ Whoami!
 - 🇧🇩  From Bangladesh
 - 🧑🏻‍💻 **Red Teaming** | **Bug hunting** | **CTF Player**
-- 🌱 I’m currently focusing on **Web/Android Pentesting**
+- 🌱 I’m currently working on **Web/Android Pentesting**
 - 📫 mail to: nahid0x1.official@gmail.com
 
 <br>
