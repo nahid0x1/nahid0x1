@@ -6,10 +6,9 @@
  
 
 ![Facebook](https://img.shields.io/badge/nahid0x1-%231877F2.svg?style=flat&logo=Facebook&logoColor=white)
-</a><a href="https://twitter.com/nahid0x1">
- ![Twitter](https://img.shields.io/badge/nahid0x1-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)
- </a><a href="https://instagram.com/nah1d0x1"> ![Instagram](https://img.shields.io/badge/nahid0x1-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)</a> ![Github](https://img.shields.io/github/followers/nahid0x1?label=Github&style=flat&logoColor=white)
-![](https://visitor-badge.glitch.me/badge?page_id=nahid0x1)
+</a><a href="https://x.com/nahid0x1">
+ ![X](https://img.shields.io/badge/nahid0x1-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)
+ </a><a href="https://instagram.com/nah1d0x1"> ![Instagram](https://img.shields.io/badge/nahid0x1-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)</a>
 
 </div>
 
