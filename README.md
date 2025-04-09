@@ -8,7 +8,7 @@
 ![Facebook](https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white)
 </a><a href="https://x.com/nahid0x1">
  ![X](https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=)
- </a><a href="https://instagram.com/nah1d0x1"> ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a><a href="https://www.linkedin.com/in/nahid0x1">![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nahid0x1)
+ </a><a href="https://instagram.com/nah1d0x1"> ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
 </div>
 
