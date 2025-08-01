@@ -14,7 +14,7 @@
 
 ## 🙋‍♂️ Whoami!
 - 🇧🇩  From Bangladesh
-- 🧑🏻‍💻 **Researcher** | **Web/Android Pentester** | **Red Teamer**
+- 🧑🏻‍💻 **Bug Hunter** | **Web/Android Developer** | **Pentester**
 - 🌱 I’m currently working on **Web/Android Pentesting**
 - 📫 mail to: nahid0x1.official@gmail.com
 
